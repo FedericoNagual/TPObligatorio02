@@ -1,0 +1,8 @@
+nombre base de datos: peluqueria_canina 
+user atp 	pas: 1826
+localhost  pid 1332	port 3306
+
+colores de la imagen :
+
+Gris : 238,238,238 
+Azul : 0,102,255
